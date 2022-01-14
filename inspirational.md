@@ -32,3 +32,38 @@ Inspirational Quotes
 
 "I don't believe in the no-win scenario."  
 -James T. Kirk
+
+"If my boss knew how unproductive I am on Fridays, he wouldn't want me here either."  
+-James Johnson
+
+[comment]: # (consider moving above to "work quotes" when created)
+
+"All storms pass. It's how you weather them that matters."  
+-Jimmy Chin
+
+"Whatever you can do, or dream you can, begin it. Boldness has genius, power, and magic in it."  
+-Johann Wolfgang von Goethe
+
+"If you want to go fast, go alone. If you want to go far, go together."  
+-African proverb
+
+"I like things to happen, and if they don't happen I like to make them happen."  
+-Winston Churchill
+
+"Employers are at their happiest on Mondays. Employees are at their happiest on Fridays."  
+-Mokokoma Mokhonoana
+
+[comment]: # (another one, above, to consider moving to "work quotes" when created)
+
+"If the winds will not serve, take to the oars."  
+-Latin proverb
+
+"I am not a product of my circumstances. I am a product of my decisions."  
+-Stephen Covey
+
+"You miss 100% of the shots you don't take."  
+-Wayne Gretzky  
+-Michael Scott
+
+"The mind is everything. What you think you become."  
+-Buddha
