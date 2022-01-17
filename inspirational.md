@@ -133,3 +133,70 @@ Inspirational Quotes
 >"If it's your job to eat a frog, it's best to do it first thing in the morning. And if it's your job to eat two frogs, it's best to eat the biggest one first."
 
 *I think it fits Twain's personality.*
+
+"It is our attitude at the beginning of a difficult task which, more than anything else, will affect its successful outcome."  
+-William James
+
+"Each one of us has to start out with developing his or her definition of success. And when we have these specific expectations of ourselves, we are more likely to live up to them. Ultimately, it is not what you get or even what you give. It's what you become."  
+-Mary Gates
+
+"Turn your face toward the sun and the shadows will fall behind you."  
+-Maori proverb
+
+"A man of real merit is never seen in so favorable light as through the medium of adversity; the clouds that surround him are shades that set off his good qualities."  
+-Alexander Hamilton
+
+"Strive not to be a success, but rather to be of value."  
+-Albert Einstein
+
+"The good life is one inspired by love and guided by knowledge.  
+Knowledge and love are both indefinitely extensible; therefore, however good a life may be, a better life can be imagined. Neither love without knowledge, nor knowledge without love can produce a good life."  
+-Bertrand Russell
+
+[comment]: # ("The advantage of a bad memory is that one enjoys several times the same good things for the first time."  Friedrich Nietzsche)
+
+"Remember, kids, the only difference between screwing around and science is writing it down."  
+-Adam Savage
+
+[comment]: # (another one, above, to consider moving to "work quotes" when created)
+
+"Happiness is not something readymade. It comes from your own actions."  
+-Dalai Lama
+
+[comment]: # ("Work, work, work, work, work, work"  -Rihanna)
+
+"Humans have an inquisitive nature, and that manifests itself in our desire to take that next step, to seek out the next great adventure."  
+-Neil Armstrong
+
+"To live will be an awfully big adventure."  
+-Peter Pan
+
+"Thought is the parent of the deed."  
+-Thomas Carlyle
+
+"Life is not easy for any of us. But what of that? We must have perserverence and above all confidence in ourselves. We must believe that we are gifted for something, and this thing, at whatever cost, must be attained."  
+-Marie Curie
+
+"The best scientists and engineers are just as creative as the best storytellers, just in different ways."  
+-Steve Jobs
+
+"Forget your voice, sing!  
+Forget your feet, dance!  
+Forget your life, live!  
+Forget yourself and be!"  
+-Kamand Kojouri
+
+"The critical problems facing the world can and will be solved by creative people who are both dreamers and doers."  
+-Card Walker
+
+*This is a reference to Walt Disney's philosophy of "dreamers and doers" which influenced imagineering at Disney.*
+
+[comment]: # (another one, above, to consider moving to "work quotes" when created)
+
+"At dawn, when you have trouble getting out of bed, tell yourself: 'I have to go to work -- as a human being. What do I have to complain of, if I'm going to do what I was born for -- the things I was brought into the world to do? Or is this what I was created for? To huddle under the blankets and stay warm?'"  
+-Marcus Aurelius
+
+[comment]: # (another one, above, to consider moving to "work quotes" when created)
+
+"You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make."  
+-Jane Goodall
