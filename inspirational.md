@@ -200,3 +200,36 @@ Forget yourself and be!"
 
 "You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make."  
 -Jane Goodall
+
+"Success seems to be connected with action. Successful people keep moving. They make mistakes, but they don't quit."  
+-Conrad Hilton
+
+"Life begins at the end of your comfort zone."  
+-Neale Donald Walsch
+
+[comment]: # ("You know you're living right when you wake up, brush your hair & confetti falls out.  -Katy Perry)
+
+"The most important thing is to try and inspire people so that they can be great in whatever they want to do."  
+-Kobe Bryant
+
+"What you get by achieving your goals is not as important as what you become by achieving your goals."  
+-Zig Ziglar
+
+"Purpose is an essential element of you. It is the reason you are on the planet at this particular time in history. Your very existence is wrapped up in the things you are here to fulfill. Whatever you choose for a career path, remember, the struggles along the way are only meant to shape you for your purpose."  
+-Chadwick Boseman
+
+"Everybody wants to be on the mountaintop, but if you'll remember, mountaintops are rocky and cold. There is no growth on the top of a mountain. Sure, the view is great, but what's a view for? A view just gives us a glimpse of our next destination -- our next target. But to hit that target, we must come off the mountain, go through the valley, and begin to climb the next slope. It is in the valley that we slog through the lush grass and rich soil, learning and becoming what enables us to summit life's next peak."  
+-Andy Andrews
+
+"At least once a week I walk outside and say, 'Computer end program,' just in case."  
+-Unattributed
+
+[comment]: # (maybe the one above belongs in "funny quotes"?)
+
+"I am, and ever will be, a white-socks, pocket-protector, nerdy engineer, born under the second law of thermodynamics, steeped in steam tables, in love with free-body diagrams, transformed by Laplace and propelled by compressible flow."  
+-Neil Armstrong
+
+[comment]: # (another one, above, to consider moving to "work quotes" when created)
+
+"Fight for the things that you care about, but do it in a way that will lead others to join you."  
+-Ruth Bader Ginsburg
