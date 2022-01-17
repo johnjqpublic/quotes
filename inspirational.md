@@ -67,3 +67,69 @@ Inspirational Quotes
 
 "The mind is everything. What you think you become."  
 -Buddha
+
+"Music always sounds better on Friday."  
+-Lou Brutus
+
+[comment]: # (another one, above, to consider moving to "work quotes" when created)
+
+"All our dreams can come true, if we have the courage to pursue them."  
+-Walt Disney
+
+"There are no traffic jams along the extra mile."  
+-Roger Staubach
+
+"jaj vlghaj" ("Own the day")  
+-Klingon battle cry
+
+"Teach thy tongue to say, 'I do not know,' and thou shalt progress."  
+-Maimonides
+
+"People often say that motivation doesn't last. Well, neither does bathing. That's why we recommend it daily."  
+-Zig Ziglar
+
+"There are two ways to do something: the right way, and again."  
+-U.S. Navy Seals
+
+[comment]: # (another one, above, to consider moving to "work quotes" when created)
+
+"Do not spoil what you have by desiring what you have not; but remember that what you now have was once among the things you only hoped for."  
+-Epicurus
+
+"The best time to plant a tree was 20 years ago. The second best time is now."  
+-Chinese proverb
+
+"We are only as strong as we are united, as weak as we are divided."  
+-Albus Dumbledore
+
+"The time is always right to do what is right."  
+-Martin Luther King Jr.
+
+"Fall seven times and stand up eight."  
+-Japanese proverb
+
+"When the going gets tough, the tough get going."  
+-Joseph Kennedy
+
+[comment]: # ("Be driven, be focused, but enjoy every moment because it only happens once."  -Alicia Keys)
+
+"You've got to find what you love. And that is as true for your work as it is for your lovers. Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you waven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know it when you find it. And, like any great relationship, it just gets better as the years roll on. So keep looking until you find it. Don't settle."  
+-Steve Jobs
+
+"Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become."  
+-Paramahansa Yogananda
+
+"Don't quit. Suffer now and live the rest of your life as a champion."  
+-Muhammad Ali
+
+"The bad news is time flies. The good news is you're the pilot"  
+-Michael Altshuler
+
+"Swallow a toad in the morning if you want to encounter nothing more disgusting the rest of the day."  
+-Nicolas Chamfort
+
+*Interestingly, that quote is often mis-attributed to Mark Twain as:*
+
+>"If it's your job to eat a frog, it's best to do it first thing in the morning. And if it's your job to eat two frogs, it's best to eat the biggest one first."
+
+*I think it fits Twain's personality.*
