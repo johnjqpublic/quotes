@@ -125,14 +125,8 @@ Inspirational Quotes
 "The bad news is time flies. The good news is you're the pilot"  
 -Michael Altshuler
 
-"Swallow a toad in the morning if you want to encounter nothing more disgusting the rest of the day."  
+"Swallow a toad in the morning if you want to encounter nothing more disgusting the rest of the day."[^1]  
 -Nicolas Chamfort
-
-*Interestingly, that quote is often mis-attributed to Mark Twain as:*
-
->"If it's your job to eat a frog, it's best to do it first thing in the morning. And if it's your job to eat two frogs, it's best to eat the biggest one first."
-
-*I think it fits Twain's personality.*
 
 "It is our attitude at the beginning of a difficult task which, more than anything else, will affect its successful outcome."  
 -William James
@@ -233,3 +227,9 @@ Forget yourself and be!"
 
 "Fight for the things that you care about, but do it in a way that will lead others to join you."  
 -Ruth Bader Ginsburg
+
+
+
+[^1]: Interestingly, this quote is often mis-attributed to Mark Twain as:  
+    *"If it's your job to eat a frog, it's best to do it first thing in the morning. And if it's your job to eat two frogs, it's best to eat the biggest one first."*  
+    I think it fits Twain's personality.
