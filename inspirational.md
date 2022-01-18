@@ -228,6 +228,55 @@ Forget yourself and be!"
 "Fight for the things that you care about, but do it in a way that will lead others to join you."  
 -Ruth Bader Ginsburg
 
+"Experience is something you don't get until just after you need it."  
+-Steven Wright
+
+"Success is the sum of small efforts repeated day in and day out."  
+-Robert Collier
+
+"Curiosity is unruly, It doesn't like rules, or at least, it assumes that all rules are provisional, subject to the laceration of a smart question nobody has yet thought to ask. It disdains the approved pathways, preferring diversions, unplanned excursions, impulsive left turns. In short, curiosity is deviant."  
+-Ian Leslie (from *Curious: The Desire to Know and Why Your Future Depends on It*)
+
+[comment]: # (another one, above, to consider moving to "work quotes" when created)
+
+"Both optimism and anxiety require us to imagine something that hasn't happened yet.  
+If we have the ability to worry about the future, it also means we have the ability to imagine a better one."  
+-Jess Ekstrom
+
+"Insufficient facts always invite danger."  
+-Spock
+
+[comment]: # (another one, above, to consider moving to "work quotes" when created)
+
+"If happiness is the goal -- and it should be -- then adventure should be a top priority."  
+-Richard Branson
+
+"The most difficult thing is the decision to act. The rest is mere tenacity. The fears are paper tigers. You can anything you decide to do. You can act to change and control your life and the procedure. The process is its own reward."  
+-Amelia Earhart
+
+"To give anything less than your best, is to sacrifice the gift."  
+-Steve Prefontaine
+
+"Never be afraid to try something new. Remember that a lone amateur built the ark. A large group of professionals built the Titanic."  
+-D. Barry
+
+[comment]: # (double-check the above quote)
+
+"He who knows that enough is enough will always have enough."  
+-Lao Tzu
+
+"The things we love tell us what we are."  
+-Thomas Merton
+
+"There's always a sunrise and always a sunset and it's up to you to choose to be there for it. Put yourself in the way of beauty."  
+-Cheryl Strayed
+
+"The struggles we endure today will be the 'good old days' we laugh about tomorrow."  
+-Aaron Lauritsen
+
+"It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat."  
+-Theodore Roosevelt
+
 
 
 [^1]: Interestingly, this quote is often mis-attributed to Mark Twain as:  
